@@ -7,8 +7,9 @@ phase2 データをサンプル入力用に加工したファイル。
 内容
 --------
 
-### COCO
+### COCO_nc
 
+  * y2000/sho.nc    - SSH
 
 ### MRI.COM (MRI.COM/)
 
