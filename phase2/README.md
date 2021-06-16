@@ -10,11 +10,14 @@ phase2 データをサンプル入力用に加工したファイル。
 ### COCO_nc
 
   * y2000/sho.nc    - SSH
+  * ../grid_info/COCO_CMIP6_v01.nc - 格子情報
+
 
 ### MRI.COM (MRI.COM/)
 
 2021/03 時点でのOMIP準拠最新実験である「GONDOLA_100 実験 #4590」の設定ファイルとヒストリー出力
 
+  * ../grid_info/MRICOM_G100_v02.nc - 格子情報
   * dxdy_tbox_deg.d  - モデル水平格子間隔
   * dz_cm.d          - モデル鉛直格子間隔
   * scale_factor.d   - モデルtripolar水平格子情報
